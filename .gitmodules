@@ -1,30 +1,30 @@
 [submodule "PlatformAbstract/lwip"]
 	path = PlatformAbstract/lwip
-	url = ../jblib-platform-abstract-lwip.git
+	url = git@github.com:JohnnyB1290/jblib-platform-abstract-lwip.git
 [submodule "PlatformAbstract/webserver"]
 	path = PlatformAbstract/webserver
-	url = ../jblib-platform-abstract-webserver.git
+	url = git@github.com:JohnnyB1290/jblib-platform-abstract-webserver.git
 [submodule "PlatformAbstract/netutilities"]
 	path = PlatformAbstract/netutilities
-	url = ../jblib-platform-abstract-netutilities.git
+	url = git@github.com:JohnnyB1290/jblib-platform-abstract-netutilities.git
 [submodule "PlatformAbstract/jbutilities"]
 	path = PlatformAbstract/jbutilities
-	url = ../jblib-platform-abstract-jbutilities.git
+	url = git@github.com:JohnnyB1290/jblib-platform-abstract-jbutilities.git
 [submodule "PlatformAbstract/jbkernel"]
 	path = PlatformAbstract/jbkernel
-	url = ../jblib-platform-abstract-jbkernel.git
+	url = git@github.com:JohnnyB1290/jblib-platform-abstract-jbkernel.git
 [submodule "PlatformAbstract/ftpserver"]
 	path = PlatformAbstract/ftpserver
-	url = ../jblib-platform-abstract-ftpserver.git
+	url = git@github.com:JohnnyB1290/jblib-platform-abstract-ftpserver.git
 [submodule "lpc43xx/jbdrivers"]
 	path = lpc43xx/jbdrivers
-	url = ../jblib-lpc43xx-jbdrivers.git
+	url = git@github.com:JohnnyB1290/jblib-lpc43xx-jbdrivers.git
 [submodule "lpc43xx/lpcopen"]
 	path = lpc43xx/lpcopen
-	url = ../jblib-lpc43xx-lpcopen.git
+	url = git@github.com:JohnnyB1290/jblib-lpc43xx-lpcopen.git
 [submodule "zynq/jbdrivers"]
 	path = zynq/jbdrivers
-	url = ../jblib-zynq-jbdrivers.git
+	url = git@github.com:JohnnyB1290/jblib-zynq-jbdrivers.git
 [submodule "imxrt/jbrivers"]
 	path = imxrt/jbrivers
-	url = ../jblib-imxrt-jbrivers.git
+	url = git@github.com:JohnnyB1290/jblib-imxrt-jbrivers.git
