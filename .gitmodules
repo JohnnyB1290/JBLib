@@ -28,3 +28,6 @@
 [submodule "imxrt/jbrivers"]
 	path = imxrt/jbrivers
 	url = git@github.com:JohnnyB1290/jblib-imxrt-jbrivers.git
+[submodule "esp32/jbdrivers"]
+	path = esp32/jbdrivers
+	url = ../jblib-esp32-jbdrivers.git
